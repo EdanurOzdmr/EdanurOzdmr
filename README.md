@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edanur.</h1>
-<h3 align="center">I am a software engineer. I am currently doing a master's degree in the field of artificial intelligence applications in software security. I have been working professionally as a Back-end Developer for about 2 years.</h3>
+<h3 align="center">I am a software engineer. I am currently doing a master's degree in the field of artificial intelligence applications in software security. I have been working professionally as a Back-end Developer for about 2 years. In my career, I aim to improve myself on a global scale by rapidly adapting to new technologies throughout my life.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
